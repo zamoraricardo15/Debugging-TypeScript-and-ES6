@@ -1,1 +1,1 @@
-# Debugging-TypeScript-and-ES6
+# Coding Dojo TypeScript Intro
